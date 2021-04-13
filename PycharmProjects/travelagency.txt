@@ -1,0 +1,8 @@
+name = f
+age = 45
+contact = 4
+members = 4
+cab = yes
+place = 2
+budget = 4000
+--------------------------------------------

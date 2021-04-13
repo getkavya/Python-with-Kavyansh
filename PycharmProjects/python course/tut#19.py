@@ -1,0 +1,1 @@
+# in this video there is only the ans of faulty calculater

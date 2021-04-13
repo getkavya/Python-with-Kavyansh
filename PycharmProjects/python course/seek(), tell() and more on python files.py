@@ -1,0 +1,8 @@
+f = open("kavyansh.txt")
+f.seek(6)
+#print(f.tell())
+print(f.readline())
+#print(f.tell())
+print(f.readline())
+#print(f.tell())
+f.close()
